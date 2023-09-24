@@ -1,2 +1,3 @@
 # test
-coba-coba
+coba buat cv
+
